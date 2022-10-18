@@ -1,0 +1,15 @@
+{
+    "name": "root/composer_quete2",
+    "autoload": {
+        "psr-4": {
+            "Root\\ComposerQuete2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CodingBDX",
+            "email": "antonycharier@gmail.com"
+        }
+    ],
+    "require": {}
+}
